@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/CiberNOVA-PAT-NEXO-Misioa-LH-1-2/',
     plugins: [
       react(),
       tailwindcss(),
